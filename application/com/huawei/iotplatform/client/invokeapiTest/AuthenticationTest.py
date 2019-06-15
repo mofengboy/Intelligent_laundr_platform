@@ -21,13 +21,17 @@ class AuthenticationTest(object):
 
 
 if __name__ == "__main__":
-    auTest = AuthenticationTest()
-    authentication = Authentication()
+    # 刷先Token
+    def refresh_auth():
+        auTest = AuthenticationTest()
+        authentication = Authentication()
 
-    ag = authentication.getAuthToken(Constant().clientInfo())
-    print("====== get access token ======")
-    print("result:", ag + "\n")
+        # ag = authentication.getAuthToken(Constant().clientInfo())
 
-    ar = authentication.refreshAuthToken(auTest.refreshAuthTokenInfo())
-    print("====== refresh token ======")
-    print("result:", ar + "\n")
+        # print("====== get access token ======")
+        # print("result:", ag + "\n")
+        ar = authentication.refreshAuthToken(auTest.refreshAuthTokenInfo())
+        # print("====== refresh token ======")
+        # print("result:", ar + "\n")
+        return ar
+
