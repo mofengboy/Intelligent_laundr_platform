@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.QueryUpgradePackageOutDTO import QueryUpgradePackageOutDTO
+from application.com.huawei.iotplatform.client.dto.QueryUpgradePackageOutDTO import QueryUpgradePackageOutDTO
 
 
 class QueryUpgradePackageListOutDTO(object):

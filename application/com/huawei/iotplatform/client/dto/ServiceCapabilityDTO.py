@@ -1,5 +1,5 @@
-from com.huawei.iotplatform.client.dto.ServiceCommand import ServiceCommand
-from com.huawei.iotplatform.client.dto.ServiceProperty import ServiceProperty
+from application.com.huawei.iotplatform.client.dto.ServiceCommand import ServiceCommand
+from application.com.huawei.iotplatform.client.dto.ServiceProperty import ServiceProperty
 
 
 class ServiceCapabilityDTO(object):

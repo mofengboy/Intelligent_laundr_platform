@@ -1,6 +1,6 @@
-from com.huawei.iotplatform.client.dto.CustomField import CustomField
-from com.huawei.iotplatform.client.dto.DeviceConfigDTO import DeviceConfigDTO
-from com.huawei.iotplatform.client.dto.TagDTO2 import TagDTO2
+from application.com.huawei.iotplatform.client.dto.CustomField import CustomField
+from application.com.huawei.iotplatform.client.dto.DeviceConfigDTO import DeviceConfigDTO
+from application.com.huawei.iotplatform.client.dto.TagDTO2 import TagDTO2
 
 
 class ModifyDeviceInfoInDTO(object):

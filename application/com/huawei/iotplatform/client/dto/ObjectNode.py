@@ -1,5 +1,5 @@
-from com.huawei.iotplatform.client.dto.CommandDTO import CommandDTO
-from com.huawei.iotplatform.client.dto.TagDTO2 import TagDTO2
+from application.com.huawei.iotplatform.client.dto.CommandDTO import CommandDTO
+from application.com.huawei.iotplatform.client.dto.TagDTO2 import TagDTO2
 
 
 class ObjectNode(object):

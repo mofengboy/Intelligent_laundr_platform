@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.ServiceDesiredDTO import ServiceDesiredDTO
+from application.com.huawei.iotplatform.client.dto.ServiceDesiredDTO import ServiceDesiredDTO
 
 
 class ModifyDeviceShadowInDTO(object):

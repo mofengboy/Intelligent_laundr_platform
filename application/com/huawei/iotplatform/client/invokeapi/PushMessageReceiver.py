@@ -3,7 +3,7 @@ import logging
 from flask import Flask, request
 from requests import RequestException
 
-from com.huawei.iotplatform.utils.LogUtil import Log
+from application.com.huawei.iotplatform.utils.LogUtil import Log
 
 app = Flask(__name__)
 

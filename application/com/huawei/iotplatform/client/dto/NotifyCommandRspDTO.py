@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.CommandRspHeader import CommandRspHeader
+from application.com.huawei.iotplatform.client.dto.CommandRspHeader import CommandRspHeader
 
 
 class NotifyCommandRspDTO(object):

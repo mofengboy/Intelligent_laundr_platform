@@ -1,8 +1,8 @@
 import configparser
 import os
 
-from com.huawei.iotplatform.client.dto.ClientInfo import ClientInfo
-from com.huawei.iotplatform.utils.DictUtil import DictUtil
+from application.com.huawei.iotplatform.client.dto.ClientInfo import ClientInfo
+from application.com.huawei.iotplatform.utils.DictUtil import DictUtil
 
 cf = configparser.ConfigParser()
 

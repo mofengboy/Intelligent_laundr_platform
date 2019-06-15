@@ -1,5 +1,5 @@
-from com.huawei.iotplatform.client.dto.DeviceCommandRespV4 import DeviceCommandRespV4
-from com.huawei.iotplatform.client.dto.Pagination import Pagination
+from application.com.huawei.iotplatform.client.dto.DeviceCommandRespV4 import DeviceCommandRespV4
+from application.com.huawei.iotplatform.client.dto.Pagination import Pagination
 
 
 class QueryDeviceCommandOutDTO(object):

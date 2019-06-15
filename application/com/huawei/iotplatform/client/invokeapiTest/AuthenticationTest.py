@@ -2,9 +2,9 @@ import json
 
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.Authentication import Authentication
 
-from com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
-from com.huawei.iotplatform.client.dto.AuthRefreshInDTO import AuthRefreshInDTO
-from com.huawei.iotplatform.constant.Constant import Constant
+from application.com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
+from application.com.huawei.iotplatform.client.dto.AuthRefreshInDTO import AuthRefreshInDTO
+from application.com.huawei.iotplatform.constant.Constant import Constant
 
 
 class AuthenticationTest(object):

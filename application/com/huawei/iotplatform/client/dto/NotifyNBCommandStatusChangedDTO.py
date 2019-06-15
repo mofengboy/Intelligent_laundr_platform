@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.NBCommandResult import NBCommandResult
+from application.com.huawei.iotplatform.client.dto.NBCommandResult import NBCommandResult
 
 
 class NotifyNBCommandStatusChangedDTO(object):

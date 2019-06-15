@@ -2,7 +2,7 @@ import logging
 import os
 from logging.handlers import RotatingFileHandler
 
-from com.huawei.iotplatform.constant.Constant import Constant
+from application.com.huawei.iotplatform.constant.Constant import Constant
 
 
 class Log(object):

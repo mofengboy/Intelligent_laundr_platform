@@ -1,5 +1,5 @@
-from com.huawei.iotplatform.client.dto.DeviceInfo import DeviceInfo
-from com.huawei.iotplatform.client.dto.DeviceServiceB import DeviceServiceB
+from application.com.huawei.iotplatform.client.dto.DeviceInfo import DeviceInfo
+from application.com.huawei.iotplatform.client.dto.DeviceServiceB import DeviceServiceB
 
 
 class QueryDeviceShadowOutDTO(object):

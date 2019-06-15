@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.Identifier import Identifier
+from application.com.huawei.iotplatform.client.dto.Identifier import Identifier
 
 
 class CoordinateReferenceSystem(object):

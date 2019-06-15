@@ -3,13 +3,13 @@ import json
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.Authentication import Authentication
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.DeviceUpgrade import DeviceUpgrade
 
-from com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
-from com.huawei.iotplatform.client.dto.CreateUpgradeTaskInDTO import CreateUpgradeTaskInDTO
-from com.huawei.iotplatform.client.dto.OperateDevices import OperateDevices
-from com.huawei.iotplatform.client.dto.QueryUpgradePackageListInDTO import QueryUpgradePackageListInDTO
-from com.huawei.iotplatform.client.dto.QueryUpgradeSubTaskInDTO import QueryUpgradeSubTaskInDTO
-from com.huawei.iotplatform.client.dto.QueryUpgradeTaskListInDTO import QueryUpgradeTaskListInDTO
-from com.huawei.iotplatform.constant.Constant import Constant
+from application.com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
+from application.com.huawei.iotplatform.client.dto.CreateUpgradeTaskInDTO import CreateUpgradeTaskInDTO
+from application.com.huawei.iotplatform.client.dto.OperateDevices import OperateDevices
+from application.com.huawei.iotplatform.client.dto.QueryUpgradePackageListInDTO import QueryUpgradePackageListInDTO
+from application.com.huawei.iotplatform.client.dto.QueryUpgradeSubTaskInDTO import QueryUpgradeSubTaskInDTO
+from application.com.huawei.iotplatform.client.dto.QueryUpgradeTaskListInDTO import QueryUpgradeTaskListInDTO
+from application.com.huawei.iotplatform.constant.Constant import Constant
 
 
 class DeviceUpgradeTest(object):

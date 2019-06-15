@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.SubscriptionDTO import SubscriptionDTO
+from application.com.huawei.iotplatform.client.dto.SubscriptionDTO import SubscriptionDTO
 
 
 class QueryBatchSubOutDTO(object):

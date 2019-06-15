@@ -4,14 +4,14 @@ import random
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.Authentication import Authentication
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.DeviceManagement import DeviceManagement
 
-from com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
-from com.huawei.iotplatform.client.dto.ModifyDeviceInfoInDTO import ModifyDeviceInfoInDTO
-from com.huawei.iotplatform.client.dto.ModifyDeviceShadowInDTO import ModifyDeviceShadowInDTO
-from com.huawei.iotplatform.client.dto.QueryDeviceRealtimeLocationInDTO import QueryDeviceRealtimeLocationInDTO
-from com.huawei.iotplatform.client.dto.RefreshDeviceKeyInDTO import RefreshDeviceKeyInDTO
-from com.huawei.iotplatform.client.dto.RegDirectDeviceInDTO import RegDirectDeviceInDTO
-from com.huawei.iotplatform.client.dto.RegDirectDeviceOutDTO import RegDirectDeviceOutDTO
-from com.huawei.iotplatform.constant.Constant import Constant
+from application.com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
+from application.com.huawei.iotplatform.client.dto.ModifyDeviceInfoInDTO import ModifyDeviceInfoInDTO
+from application.com.huawei.iotplatform.client.dto.ModifyDeviceShadowInDTO import ModifyDeviceShadowInDTO
+from application.com.huawei.iotplatform.client.dto.QueryDeviceRealtimeLocationInDTO import QueryDeviceRealtimeLocationInDTO
+from application.com.huawei.iotplatform.client.dto.RefreshDeviceKeyInDTO import RefreshDeviceKeyInDTO
+from application.com.huawei.iotplatform.client.dto.RegDirectDeviceInDTO import RegDirectDeviceInDTO
+from application.com.huawei.iotplatform.client.dto.RegDirectDeviceOutDTO import RegDirectDeviceOutDTO
+from application.com.huawei.iotplatform.constant.Constant import Constant
 
 
 class DeviceManagementTest(object):

@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.CoordinateReferenceSystem import CoordinateReferenceSystem
+from application.com.huawei.iotplatform.client.dto.CoordinateReferenceSystem import CoordinateReferenceSystem
 
 
 class QueryDeviceRealtimeLocationInDTO(object):

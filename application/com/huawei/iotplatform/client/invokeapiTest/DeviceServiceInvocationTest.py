@@ -3,9 +3,9 @@ import json
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.Authentication import Authentication
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.DeviceServiceInvocation import DeviceServiceInvocation
 
-from com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
-from com.huawei.iotplatform.client.dto.CommandDTO import CommandDTO
-from com.huawei.iotplatform.constant.Constant import Constant
+from application.com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
+from application.com.huawei.iotplatform.client.dto.CommandDTO import CommandDTO
+from application.com.huawei.iotplatform.constant.Constant import Constant
 
 
 class DeviceServiceInvocationTest(object):

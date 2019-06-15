@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.SubOperationInfo import SubOperationInfo
+from application.com.huawei.iotplatform.client.dto.SubOperationInfo import SubOperationInfo
 
 
 class QueryUpgradeSubTaskOutDTO(object):

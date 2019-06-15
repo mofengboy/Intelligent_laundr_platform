@@ -1,5 +1,5 @@
-from com.huawei.iotplatform.client.dto.ActionResult import ActionResult
-from com.huawei.iotplatform.client.dto.ConditionReason import ConditionReason
+from application.com.huawei.iotplatform.client.dto.ActionResult import ActionResult
+from application.com.huawei.iotplatform.client.dto.ConditionReason import ConditionReason
 
 
 class NotifyRuleEventDTO(object):

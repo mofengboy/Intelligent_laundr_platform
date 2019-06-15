@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.QuerySingleDeviceGroupOutDTO import QuerySingleDeviceGroupOutDTO
+from application.com.huawei.iotplatform.client.dto.QuerySingleDeviceGroupOutDTO import QuerySingleDeviceGroupOutDTO
 
 
 class QueryDeviceGroupsOutDTO(object):

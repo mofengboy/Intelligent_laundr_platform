@@ -3,13 +3,13 @@ import json
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.Authentication import Authentication
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.RuleEngine import RuleEngine
 
-from com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
-from com.huawei.iotplatform.client.dto.QueryRulesInDTO import QueryRulesInDTO
-from com.huawei.iotplatform.client.dto.RuleCreateOrUpdateOutDTO import RuleCreateOrUpdateOutDTO
-from com.huawei.iotplatform.client.dto.RuleDTO import RuleDTO
-from com.huawei.iotplatform.client.dto.UpdateBatchRuleStatusInDTO import UpdateBatchRuleStatusInDTO
-from com.huawei.iotplatform.client.dto.UpdateRuleStatusInDTO import UpdateRuleStatusInDTO
-from com.huawei.iotplatform.constant.Constant import Constant
+from application.com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
+from application.com.huawei.iotplatform.client.dto.QueryRulesInDTO import QueryRulesInDTO
+from application.com.huawei.iotplatform.client.dto.RuleCreateOrUpdateOutDTO import RuleCreateOrUpdateOutDTO
+from application.com.huawei.iotplatform.client.dto.RuleDTO import RuleDTO
+from application.com.huawei.iotplatform.client.dto.UpdateBatchRuleStatusInDTO import UpdateBatchRuleStatusInDTO
+from application.com.huawei.iotplatform.client.dto.UpdateRuleStatusInDTO import UpdateRuleStatusInDTO
+from application.com.huawei.iotplatform.constant.Constant import Constant
 
 
 class RuleEngineTest(object):

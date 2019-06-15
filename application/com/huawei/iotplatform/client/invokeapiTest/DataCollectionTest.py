@@ -3,12 +3,12 @@ import json
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.Authentication import Authentication
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.DataCollection import DataCollection
 
-from com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
-from com.huawei.iotplatform.client.dto.QueryBatchDevicesInfoInDTO import QueryBatchDevicesInfoInDTO
-from com.huawei.iotplatform.client.dto.QueryDeviceCapabilitiesInDTO import QueryDeviceCapabilitiesInDTO
-from com.huawei.iotplatform.client.dto.QueryDeviceDataHistoryInDTO import QueryDeviceDataHistoryInDTO
-from com.huawei.iotplatform.client.dto.QueryDeviceDesiredHistoryInDTO import QueryDeviceDesiredHistoryInDTO
-from com.huawei.iotplatform.constant.Constant import Constant
+from application.com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
+from application.com.huawei.iotplatform.client.dto.QueryBatchDevicesInfoInDTO import QueryBatchDevicesInfoInDTO
+from application.com.huawei.iotplatform.client.dto.QueryDeviceCapabilitiesInDTO import QueryDeviceCapabilitiesInDTO
+from application.com.huawei.iotplatform.client.dto.QueryDeviceDataHistoryInDTO import QueryDeviceDataHistoryInDTO
+from application.com.huawei.iotplatform.client.dto.QueryDeviceDesiredHistoryInDTO import QueryDeviceDesiredHistoryInDTO
+from application.com.huawei.iotplatform.constant.Constant import Constant
 
 
 class DataCollectionTest(object):

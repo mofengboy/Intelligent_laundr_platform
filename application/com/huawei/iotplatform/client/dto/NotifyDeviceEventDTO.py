@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.DeviceEventHeader import DeviceEventHeader
+from application.com.huawei.iotplatform.client.dto.DeviceEventHeader import DeviceEventHeader
 
 
 class NotifyDeviceEventDTO(object):

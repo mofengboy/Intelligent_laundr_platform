@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.ServiceCapabilityDTO import ServiceCapabilityDTO
+from application.com.huawei.iotplatform.client.dto.ServiceCapabilityDTO import ServiceCapabilityDTO
 
 
 class DeviceCapabilityDTO(object):

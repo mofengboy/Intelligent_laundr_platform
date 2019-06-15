@@ -1,5 +1,5 @@
-from com.huawei.iotplatform.client.dto.OperateDevices import OperateDevices
-from com.huawei.iotplatform.client.dto.OperatePolicy import OperatePolicy
+from application.com.huawei.iotplatform.client.dto.OperateDevices import OperateDevices
+from application.com.huawei.iotplatform.client.dto.OperatePolicy import OperatePolicy
 
 
 class CreateUpgradeTaskInDTO(object):

@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.CommandDTOV4 import CommandDTOV4
+from application.com.huawei.iotplatform.client.dto.CommandDTOV4 import CommandDTOV4
 
 
 class PostDeviceCommandInDTO(object):

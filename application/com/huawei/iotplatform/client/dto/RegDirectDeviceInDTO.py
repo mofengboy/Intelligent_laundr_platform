@@ -1,8 +1,8 @@
-from com.huawei.iotplatform.client.dto.CustomField import CustomField
-from com.huawei.iotplatform.client.dto.DeviceInfoDTO import DeviceInfoDTO
-from com.huawei.iotplatform.client.dto.DeviceInfoDTO2 import DeviceInfoDTO2
-from com.huawei.iotplatform.client.dto.Location import Location
-from com.huawei.iotplatform.client.dto.TagDTO2 import TagDTO2
+from application.com.huawei.iotplatform.client.dto.CustomField import CustomField
+from application.com.huawei.iotplatform.client.dto.DeviceInfoDTO import DeviceInfoDTO
+from application.com.huawei.iotplatform.client.dto.DeviceInfoDTO2 import DeviceInfoDTO2
+from application.com.huawei.iotplatform.client.dto.Location import Location
+from application.com.huawei.iotplatform.client.dto.TagDTO2 import TagDTO2
 
 
 class RegDirectDeviceInDTO(object):

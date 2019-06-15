@@ -9,7 +9,8 @@ def hello_world():
 
 
 @app.route('/authentication')
-def Authentication():
+def authentication():
+
     return 'AuthenticationTest'
 
 

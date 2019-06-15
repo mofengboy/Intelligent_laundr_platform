@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.DeviceCommandRespV4 import DeviceCommandRespV4
+from application.com.huawei.iotplatform.client.dto.DeviceCommandRespV4 import DeviceCommandRespV4
 
 
 class DeviceCommandCancelTaskRespV4(object):

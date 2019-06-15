@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.DataConfigDTO import DataConfigDTO
+from application.com.huawei.iotplatform.client.dto.DataConfigDTO import DataConfigDTO
 
 
 class DeviceConfigDTO(object):

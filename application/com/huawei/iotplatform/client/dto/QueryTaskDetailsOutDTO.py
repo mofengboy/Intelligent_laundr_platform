@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.QueryTaskDetailDTO import QueryTaskDetailDTOCloud2NA
+from application.com.huawei.iotplatform.client.dto.QueryTaskDetailDTO import QueryTaskDetailDTOCloud2NA
 
 
 class QueryTaskDetailsOutDTO(object):

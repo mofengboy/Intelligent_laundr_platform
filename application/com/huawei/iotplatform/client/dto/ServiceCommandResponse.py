@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.ServiceCommandPara import ServiceCommandPara
+from application.com.huawei.iotplatform.client.dto.ServiceCommandPara import ServiceCommandPara
 
 
 class ServiceCommandResponse(object):

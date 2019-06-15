@@ -1,5 +1,5 @@
-from com.huawei.iotplatform.client.dto.DeviceInfo import DeviceInfo
-from com.huawei.iotplatform.client.dto.DeviceService import DeviceService
+from application.com.huawei.iotplatform.client.dto.DeviceInfo import DeviceInfo
+from application.com.huawei.iotplatform.client.dto.DeviceService import DeviceService
 
 
 class QuerySingleDeviceInfoOutDTO(object):

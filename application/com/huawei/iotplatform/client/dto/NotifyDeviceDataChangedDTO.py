@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.DeviceService import DeviceService
+from application.com.huawei.iotplatform.client.dto.DeviceService import DeviceService
 
 
 class NotifyDeviceDataChangedDTO(object):

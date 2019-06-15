@@ -1,5 +1,5 @@
-from com.huawei.iotplatform.client.dto.ObjectNode import ObjectNode
-from com.huawei.iotplatform.client.dto.TagDTO2 import TagDTO2
+from application.com.huawei.iotplatform.client.dto.ObjectNode import ObjectNode
+from application.com.huawei.iotplatform.client.dto.TagDTO2 import TagDTO2
 
 
 class BatchTaskCreateInDTO(object):

@@ -1,5 +1,5 @@
-from com.huawei.iotplatform.client.dto.DeviceCommandCancelTaskRespV4 import DeviceCommandCancelTaskRespV4
-from com.huawei.iotplatform.client.dto.Pagination import Pagination
+from application.com.huawei.iotplatform.client.dto.DeviceCommandCancelTaskRespV4 import DeviceCommandCancelTaskRespV4
+from application.com.huawei.iotplatform.client.dto.Pagination import Pagination
 
 
 class QueryDeviceCmdCancelTaskOutDTO(object):

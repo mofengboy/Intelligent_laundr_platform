@@ -4,13 +4,13 @@ from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.Authenticat
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.SubscriptionManagement import \
     SubscriptionManagement
 
-from com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
-from com.huawei.iotplatform.client.dto.DeleteBatchSubInDTO import DeleteBatchSubInDTO
-from com.huawei.iotplatform.client.dto.QueryBatchSubInDTO import QueryBatchSubInDTO
-from com.huawei.iotplatform.client.dto.SubDeviceBusinessDataInDTO import SubDeviceBusinessDataInDTO
-from com.huawei.iotplatform.client.dto.SubDeviceManagementDataInDTO import SubDeviceManagementDataInDTO
-from com.huawei.iotplatform.client.dto.SubscriptionDTO import SubscriptionDTO
-from com.huawei.iotplatform.constant.Constant import Constant
+from application.com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
+from application.com.huawei.iotplatform.client.dto.DeleteBatchSubInDTO import DeleteBatchSubInDTO
+from application.com.huawei.iotplatform.client.dto.QueryBatchSubInDTO import QueryBatchSubInDTO
+from application.com.huawei.iotplatform.client.dto.SubDeviceBusinessDataInDTO import SubDeviceBusinessDataInDTO
+from application.com.huawei.iotplatform.client.dto.SubDeviceManagementDataInDTO import SubDeviceManagementDataInDTO
+from application.com.huawei.iotplatform.client.dto.SubscriptionDTO import SubscriptionDTO
+from application.com.huawei.iotplatform.constant.Constant import Constant
 
 
 class SubscriptionManagementTest(object):

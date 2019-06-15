@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.invokeapi.PushMessageReceiver import app
+from application.com.huawei.iotplatform.client.invokeapi.PushMessageReceiver import app
 
 if __name__ == '__main__':
     callbackUrl = "10.63.166.253"

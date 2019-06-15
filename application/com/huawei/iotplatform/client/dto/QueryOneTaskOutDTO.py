@@ -1,5 +1,5 @@
-from com.huawei.iotplatform.client.dto.ObjectNode import ObjectNode
-from com.huawei.iotplatform.client.dto.TagDTO import TagDTO
+from application.com.huawei.iotplatform.client.dto.ObjectNode import ObjectNode
+from application.com.huawei.iotplatform.client.dto.TagDTO import TagDTO
 
 
 class QueryOneTaskOutDTO(object):

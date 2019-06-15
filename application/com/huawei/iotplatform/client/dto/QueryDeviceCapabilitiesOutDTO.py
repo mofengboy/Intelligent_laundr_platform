@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.DeviceCapabilityDTO import DeviceCapabilityDTO
+from application.com.huawei.iotplatform.client.dto.DeviceCapabilityDTO import DeviceCapabilityDTO
 
 
 class QueryDeviceCapabilitiesOutDTO(object):

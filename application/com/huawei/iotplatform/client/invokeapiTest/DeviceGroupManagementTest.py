@@ -3,14 +3,14 @@ import json
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.Authentication import Authentication
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.DeviceGroupManagement import DeviceGroupManagement
 
-from com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
-from com.huawei.iotplatform.client.dto.CreateDeviceGroupInDTO import CreateDeviceGroupInDTO
-from com.huawei.iotplatform.client.dto.CreateDeviceGroupOutDTO import CreateDeviceGroupOutDTO
-from com.huawei.iotplatform.client.dto.DeviceGroupWithDeviceListDTO import DeviceGroupWithDeviceListDTO
-from com.huawei.iotplatform.client.dto.ModifyDeviceGroupInDTO import ModifyDeviceGroupInDTO
-from com.huawei.iotplatform.client.dto.QueryDeviceGroupMembersInDTO import QueryDeviceGroupMembersInDTO
-from com.huawei.iotplatform.client.dto.QueryDeviceGroupsInDTO import QueryDeviceGroupsInDTO
-from com.huawei.iotplatform.constant.Constant import Constant
+from application.com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
+from application.com.huawei.iotplatform.client.dto.CreateDeviceGroupInDTO import CreateDeviceGroupInDTO
+from application.com.huawei.iotplatform.client.dto.CreateDeviceGroupOutDTO import CreateDeviceGroupOutDTO
+from application.com.huawei.iotplatform.client.dto.DeviceGroupWithDeviceListDTO import DeviceGroupWithDeviceListDTO
+from application.com.huawei.iotplatform.client.dto.ModifyDeviceGroupInDTO import ModifyDeviceGroupInDTO
+from application.com.huawei.iotplatform.client.dto.QueryDeviceGroupMembersInDTO import QueryDeviceGroupMembersInDTO
+from application.com.huawei.iotplatform.client.dto.QueryDeviceGroupsInDTO import QueryDeviceGroupsInDTO
+from application.com.huawei.iotplatform.constant.Constant import Constant
 
 
 class DeviceGroupManagementTest(object):

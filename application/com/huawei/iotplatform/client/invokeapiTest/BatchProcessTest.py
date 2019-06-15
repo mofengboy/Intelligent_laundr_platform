@@ -3,11 +3,11 @@ import json
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.Authentication import Authentication
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.BatchProcess import BatchProcess
 
-from com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
-from com.huawei.iotplatform.client.dto.BatchTaskCreateInDTO import BatchTaskCreateInDTO
-from com.huawei.iotplatform.client.dto.BatchTaskCreateOutDTO import BatchTaskCreateOutDTO
-from com.huawei.iotplatform.client.dto.QueryTaskDetailsInDTO import QueryTaskDetailsInDTO
-from com.huawei.iotplatform.constant.Constant import Constant
+from application.com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
+from application.com.huawei.iotplatform.client.dto.BatchTaskCreateInDTO import BatchTaskCreateInDTO
+from application.com.huawei.iotplatform.client.dto.BatchTaskCreateOutDTO import BatchTaskCreateOutDTO
+from application.com.huawei.iotplatform.client.dto.QueryTaskDetailsInDTO import QueryTaskDetailsInDTO
+from application.com.huawei.iotplatform.constant.Constant import Constant
 
 
 class BatchProcessTest(object):

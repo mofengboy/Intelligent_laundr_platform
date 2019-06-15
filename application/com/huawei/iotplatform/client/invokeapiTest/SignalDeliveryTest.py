@@ -3,14 +3,14 @@ import json
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.Authentication import Authentication
 from OceanConnect_Python_SDK.com.huawei.iotplatform.client.invokeapi.SignalDelivery import SignalDelivery
 
-from com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
-from com.huawei.iotplatform.client.dto.CreateDeviceCmdCancelTaskInDTO import CreateDeviceCmdCancelTaskInDTO
-from com.huawei.iotplatform.client.dto.PostDeviceCommandInDTO import PostDeviceCommandInDTO
-from com.huawei.iotplatform.client.dto.PostDeviceCommandOutDTO import PostDeviceCommandOutDTO
-from com.huawei.iotplatform.client.dto.QueryDeviceCmdCancelTaskInDTO import QueryDeviceCmdCancelTaskInDTO
-from com.huawei.iotplatform.client.dto.QueryDeviceCommandInDTO import QueryDeviceCommandInDTO
-from com.huawei.iotplatform.client.dto.UpdateDeviceCommandInDTO import UpdateDeviceCommandInDTO
-from com.huawei.iotplatform.constant.Constant import Constant
+from application.com.huawei.iotplatform.client.dto.AuthOutDTO import AuthOutDTO
+from application.com.huawei.iotplatform.client.dto.CreateDeviceCmdCancelTaskInDTO import CreateDeviceCmdCancelTaskInDTO
+from application.com.huawei.iotplatform.client.dto.PostDeviceCommandInDTO import PostDeviceCommandInDTO
+from application.com.huawei.iotplatform.client.dto.PostDeviceCommandOutDTO import PostDeviceCommandOutDTO
+from application.com.huawei.iotplatform.client.dto.QueryDeviceCmdCancelTaskInDTO import QueryDeviceCmdCancelTaskInDTO
+from application.com.huawei.iotplatform.client.dto.QueryDeviceCommandInDTO import QueryDeviceCommandInDTO
+from application.com.huawei.iotplatform.client.dto.UpdateDeviceCommandInDTO import UpdateDeviceCommandInDTO
+from application.com.huawei.iotplatform.constant.Constant import Constant
 
 
 class SignalDeliveryTest(object):

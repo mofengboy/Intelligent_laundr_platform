@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.MessageConfirmHeader import MessageConfirmHeader
+from application.com.huawei.iotplatform.client.dto.MessageConfirmHeader import MessageConfirmHeader
 
 
 class NotifyMessageConfirmDTO(object):

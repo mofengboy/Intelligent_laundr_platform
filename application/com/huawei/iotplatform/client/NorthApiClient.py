@@ -2,8 +2,8 @@ import logging
 import requests
 from requests import RequestException, ReadTimeout
 from requests.adapters import HTTPAdapter
-from com.huawei.iotplatform.constant.RestConstant import RestConstant
-from com.huawei.iotplatform.constant.Constant import Constant
+from application.com.huawei.iotplatform.constant.RestConstant import RestConstant
+from application.com.huawei.iotplatform.constant.Constant import Constant
 
 
 class NorthApiClient(object):

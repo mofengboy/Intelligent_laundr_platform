@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.DeviceDataHistoryDTO import DeviceDataHistoryDTO
+from application.com.huawei.iotplatform.client.dto.DeviceDataHistoryDTO import DeviceDataHistoryDTO
 
 
 class QueryDeviceDataHistoryOutDTO(object):

@@ -1,4 +1,4 @@
-from com.huawei.iotplatform.client.dto.QuerySingleDeviceInfoOutDTO import QuerySingleDeviceInfoOutDTO
+from application.com.huawei.iotplatform.client.dto.QuerySingleDeviceInfoOutDTO import QuerySingleDeviceInfoOutDTO
 
 
 class QueryBatchDevicesInfoOutDTO(object):
